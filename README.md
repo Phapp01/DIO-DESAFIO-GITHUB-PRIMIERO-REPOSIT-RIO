@@ -4,4 +4,4 @@ Dessafio de projeto sobre Git/Github
 
 ## Links Úteis
 
-[Sintaxe Baasica Markdown]
+[Sintaxe Baasica Markdown](https://www.markdownguide.org/basic-syntax/)
